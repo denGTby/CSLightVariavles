@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLightVariavles", "CSLightVariavles\CSLightVariavles.csproj", "{ABFC489E-CA75-42B9-BF5C-36A1143A8945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFC489E-CA75-42B9-BF5C-36A1143A8945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFC489E-CA75-42B9-BF5C-36A1143A8945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFC489E-CA75-42B9-BF5C-36A1143A8945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFC489E-CA75-42B9-BF5C-36A1143A8945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91D6D8C0-D5D8-4566-B3C5-8758FAB83F8E}
+	EndGlobalSection
+EndGlobal
